@@ -1,4 +1,4 @@
-# 🚀 Programas en C++: De Fundamentos a Estructuras
+# Programas en C++: De Fundamentos a Estructuras
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A4EFA&center=true&vCenter=true&width=500&lines=%C2%A1Bienvenido+a+mi+repositorio!;Practicas+Academicas+UNMSM;Evolucion+en+C%2B%2B" alt="Typing SVG" />
@@ -12,13 +12,13 @@
 
 ---
 
-## 📚 Presentación
+## Presentación
 
 Este repositorio está diseñado de manera estructurada para demostrar la evolución lógica y el dominio de conceptos en el lenguaje **C++**. Organizado por módulos, transiciona desde los fundamentos algorítmicos básicos hasta el uso avanzado de memoria dinámica, punteros y estructuras de datos.
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 A continuación se detallan los módulos interactivos instalados en este espacio:
 
