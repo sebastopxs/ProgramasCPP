@@ -1,7 +1,7 @@
 # 🚀 Programas en C++: De Fundamentos a Estructuras
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A4EFA&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+mi+repositorio!;Prácticas+Académicas+UNMSM;Evolución+en+C%2B%2B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9A4EFA&center=true&vCenter=true&width=500&lines=%C2%A1Bienvenido+a+mi+repositorio!;Practicas+Academicas+UNMSM;Evolucion+en+C%2B%2B" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Conceptos iniciales, estructuras iterativas (`do-while`, `for`) y lógica condic
 
 * 🛒 `mercadillo.cpp` — Sistema de simulación de ventas con validación de precios y cantidades negativos.
 * 📊 `promedio_rango.cpp` — Filtro iterativo que restringe la entrada del usuario a un rango específico (10-20) y calcula promedios.
-* 🔢 `divisores_pares.cpp` — Algoritmo de descomposición numérica para hallar y contar divisores pares de un entero.
+* 🔢 `divisores_pares.cpp` — Algoritmo de decomposition numérica para hallar y contar divisores pares de un entero.
 </blockquote>
 </details>
 
@@ -69,7 +69,7 @@ Conceptos avanzados de gestión de memoria, direcciones y paso por referencia ex
 
 ## 🛠️ Compilación y Ejecución
 
-Para clonar y compilar cualquiera de estos módulos localmente a través de la terminal, asegúrate de contar con un compilador como `g++`:
+Para clonar y compilar cualquiera de estos módulos localmente a través de la terminal, puedes usar los siguientes comandos:
 
 ```bash
 # 1. Clonar el repositorio
@@ -78,7 +78,7 @@ git clone [https://github.com/sebastopxs/ProgramasCPP.git](https://github.com/se
 # 2. Entrar a la carpeta
 cd ProgramasCPP
 
-# 3. Compilar un archivo de ejemplo (ej. Suma de Matrices)
+# 3. Compilar un archivo de ejemplo
 g++ 02_Vectores_y_Matrices/suma_matrices.cpp -o ejecutable
 
 # 4. Correr el programa
